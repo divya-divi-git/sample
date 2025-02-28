@@ -7,4 +7,6 @@ add content
 cimmit 
 push
 
+updated the configuration
+
 
